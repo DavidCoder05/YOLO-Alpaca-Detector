@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Colab Notebooks/data_yolo
+train: images/train
+val: images/train
+test: 
+
+nc: 1
+names: ['alpaca']
